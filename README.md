@@ -1,0 +1,2 @@
+# -RAGwarts-A-Character-Aware-RAG-Agent-from-the-Wizarding-World
+RAGwarts is a Retrieval-Augmented Generation (RAG) agent that answers questions in the voice of characters from Harry Potter and the Sorcerer’s Stone. Given a user’s question and a chosen character (e.g., Hermione Granger, Harry Potter), the agent retrieves relevant content from the book and generates a response that reflects the personal, voice.
