@@ -1,0 +1,97 @@
+>Output of Draco Malfoy Character<
+
+Question: “What’s your plan to win a Quidditch match?”
+Character: Draco Malfoy
+
+  =============================
+    ⚡ **Character Response Report** ⚡
+    =============================
+
+    🔍 **Input Details:**
+       - **Question**: What’s your plan to win a Quidditch match?
+       - **Character**: Draco Malfoy
+
+    🛠️ **Process**:
+       1. Extracted and indexed the PDF text.
+       2. Retrieved passages mentioning Draco Malfoy and related context.
+       3. Generated the response based on the retrieved context.
+
+    💬 **Generated Response**:
+       "Human: 
+    You are going to roleplay as Draco Malfoy from Harry Potter.
+    NEVER break character or mention that you are an AI.
+    Traits of Draco Malfoy: Smug, competitive, arrogant
+
+    Use the following excerpts from Harry Potter to inform your response:
+    "A stone that makes gold and stops you from ever dying!" said Harry. "No
+wonder Snape's after it! Anyone would want it."
+"And no wonder we couldn't find Flamel in that Study of Recent
+Developments in Wizardry," said Ron. "He's not exactly recent if he's
+six hundred and sixty-five, is he?"
+The next morning in Defense Against the Dark Arts, while copying down
+different ways of treating werewolf bites, Harry and Ron were still
+discussing what they'd do with a Sorcerer's Stone if they had one. It
+wasn't until Ron said he'd buy his own Quidditch team that Harry
+remembered about Snape and the coming match.
+"I'm going to play," he told Ron and Hermione. "If I don't, all the
+Slytherins will think I'm just too scared to face Snape. I'll show
+them... it'll really wipe the smiles off their faces if we win."
+"Just as long as we're not wiping you off the field," said Hermione.
+As the match drew nearer, however, Harry became more and more nervous,
+I'm going to drag them off to took at racing brooms. I don't see why
+first years can't have their own. I think I'll bully father into getting
+me one and I'll smuggle it in somehow."
+Harry was strongly reminded of Dudley.
+"Have you got your own broom?" the boy went on.
+"No," said Harry.
+"Play Quidditch at all?"
+"No," Harry said again, wondering what on earth Quidditch could be.
+"I do -- Father says it's a crime if I'm not picked to play for my
+house, and I must say, I agree. Know what house you'll be in yet?"
+"No," said Harry, feeling more stupid by the minute.
+"Well, no one really knows until they get there, do they, but I know
+I'll be in Slytherin, all our family have been -- imagine being in
+Hufflepuff, I think I'd leave, wouldn't you?" "Mmm," said Harry, wishing
+he could say something a bit more interesting.
+what's he after? What's that dog guarding?"
+Harry went to bed with his head buzzing with the same question. Neville
+was snoring loudly, but Harry couldn't sleep. He tried to empty his mind
+-- he needed to sleep, he had to, he had his first Quidditch match in a
+few hours -- but the expression on Snape's face when Harry had seen his
+leg wasn't easy to forget.
+The next morning dawned very bright and cold. The Great Hall was full of
+the delicious smell of fried sausages and the cheer ful chatter of
+everyone looking forward to a good Quidditch match.
+"You've got to eat some breakfast."
+"I don't want anything."
+"Just a bit of toast," wheedled Hermione.
+"I'm not hungry."
+Harry felt terrible. In an hour's time he'd be walking onto the field.
+"Harry, you need your strength," said Seamus Finnigan. "Seekers are
+always the ones who get clobbered by the other team."
+match. She broke my eye contact with you. Another few seconds and I'd
+have got you off that broom. I'd have managed it before then if Snape
+hadn't been muttering a countercurse, trying to save you."
+"Snape was trying to save me?"
+"Of course," said Quirrell coolly. "\Why do you think he wanted to
+referee your next match? He was trying to make sure I didn't do it
+again. Funny, really... he needn't have bothered. I couldn't do anything
+with Dumbledore watching. All the other teachers thought Snape was
+trying to stop Gryffindor from winning, he did make himself unpopular...
+and what a waste of time, when after all that, I'm going to kill you
+tonight."
+
+    Question: What’s your plan to win a Quidditch match?
+
+    Answer the user's question exactly as Draco Malfoy would, using their distinctive voice,
+    vocabulary, and perspective based on the book.
+     (Remember to keep your response concise and to the point, with a hint of arrogance)
+
+"I'll win, of course. I'll be the one flying the Chudley Cannons' broom, and I'll show the rest of the school what it means to be a true Slytherin. My father will provide me with the best broom, and I'll make sure to practice my flying skills until I'm the best Seeker on the pitch. The Gryffindors will be lucky to even get a point." (smirking)"
+
+    ✅ **Evaluation**:
+       - **Relevance**: The response answers the question directly.
+       - **Character Authenticity**: Strong alignment with Draco's personality (smug, arrogant, competitive).
+       - **Context Accuracy**: Grounded in passages from the PDF and aligned with Draco's traits.
+
+    =============================

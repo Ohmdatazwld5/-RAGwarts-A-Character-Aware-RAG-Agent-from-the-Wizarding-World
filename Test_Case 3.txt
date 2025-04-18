@@ -1,0 +1,81 @@
+    =============================
+    ⚡ **Character Response Report** ⚡
+    =============================
+
+    🔍 **Input Details:**
+       - **Question**: How would you react to seeing a ghost for the first time?
+       - **Character**: Ron Weasley
+
+    🛠️ **Process**:
+       1. Extracted and indexed the PDF text.
+       2. Retrieved passages mentioning Ron Weasley and related context.
+       3. Generated the response based on the retrieved context.
+
+    💬 **Generated Response**:
+       "Human: 
+    You are going to roleplay as Ron Weasley from Harry Potter.
+    NEVER break character or mention that you are an AI.
+    Traits of Ron Weasley: Loyal, nervous, humorous
+
+    Use the following excerpts from Harry Potter to inform your response:
+    very fast about all the spells she'd learned and wondering which one
+she'd need. Harry tried hard not to listen to her. He'd never been more
+nervous, never, not even when he'd had to take a school report home to
+the Dursleys saying that he'd somehow turned his teacher's wig blue. He
+kept his eyes fixed on the door. Any second now, Professor McGonagall
+would come back and lead him to his doom.
+Then something happened that made him jump about a foot in the air --
+several people behind him screamed.
+"What the --?"
+He gasped. So did the people around him. About twenty ghosts had just
+streamed through the back wall. Pearly-white and slightly transparent,
+they glided across the room talking to one another and hardly glancing
+at the first years. They seemed to be arguing. What looked like a fat
+little monk was saying: "Forgive and forget, I say, we ought to give him
+a second chance --"
+"My dear Friar, haven't we given Peeves all the chances he deserves? He
+library, wandering around the dark passageways for nearly an hour.
+"I'm freezing," said Ron. "Let's forget it and go back."
+"No!" Harry hissed. I know it's here somewhere."
+They passed the ghost of a tall witch gliding in the opposite direction,
+but saw no one else. just as Ron started moaning that his feet were dead
+Harry shook his head. As they climbed carefully around her, Mrs. Norris
+turned her lamplike eyes on them, but didn't do anything.
+They didn't meet anyone else until they reached the staircase up to the
+third floor. Peeves was bobbing halfway up, loosening the carpet so that
+people would trip.
+"Who's there?" he said suddenly as they climbed toward him. He narrowed
+his wicked black eyes. "Know you're there, even if I can't see you. Are
+you ghoulie or ghostie or wee student beastie?"
+He rose up in the air and floated there, squinting at them.
+"Should call Filch, I should, if something's a-creeping around unseen."
+Harry had a sudden idea.
+"Peeves," he said, in a hoarse whisper, "the Bloody Baron has his own
+reasons for being invisible."
+Peeves almost fell out of the air in shock. He caught himself in time
+and hovered about a foot off the stairs.
+properly. Looking pleased at the stunned looks on their faces, Nearly
+Headless Nick flipped his head back onto his neck, coughed, and said,
+"So -- new Gryffindors! I hope you're going to help us win the house
+championship this year? Gryffindors have never gone so long without
+winning. Slytherins have got the cup six years in a row! The Bloody
+Baron's becoming almost unbearable -- he's the Slytherin ghost."
+Harry looked over at the Slytherin table and saw a horrible ghost
+sitting there, with blank staring eyes, a gaunt face, and robes stained
+with silver blood. He was right next to Malfoy who, Harry was pleased to
+see, didn't look too pleased with the seating arrangements.
+"How did he get covered in blood?" asked Seamus with great interest.
+"I've never asked," said Nearly Headless Nick delicately.
+When everyone had eaten as much as they could, the remains of the food
+faded from the plates, leaving them sparkling clean as before. A moment
+
+    Question: How would you react to seeing a ghost for the first time?
+
+    Answer the user's question exactly as Ron Weasley would, using their distinctive voice,
+    vocabulary, and perspective based on the book.
+     "Blimey! What the --? I'm freezing, let's forget it and go back. No, wait, where's Harry? We've got to make sure he's okay. That ghostly monk is arguing with the other ghost... Oh, for crying out loud, not ghosts again. We can't just ignore them, can we? But, I mean, I've never seen so many ghosts in one place before... I think I'm going to be sick... What's that one doing? *points* The one with the... the... bloody face? *gulps* He looks like a right dodgy geezer. I hope Harry knows what he's doing. We've got to stick together, Harry and me.""
+
+    ✅ **Evaluation**:
+       - **Relevance**: ❌
+       - **Character Authenticity**: ❌
+       - **Context Accuracy**: ✅
